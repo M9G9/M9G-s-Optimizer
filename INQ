@@ -1,0 +1,70 @@
+						CREATE A RESTORE POINT BEFORE DOING THIS
+Control Panel\All Control Panel Items\System 
+	Advanced
+		Performance
+			> Settings...
+				Visual Effects:
+				Custom: Check "Show thumbnails instead of icons" & "Smooth edges of screen fonts"
+				-
+				Remode:
+				Disable "Allow Remote Assistance connections to this computer"
+	Startup and Recovery
+		> Settings...
+				Startup and Recovery:
+				Uncheck "Time to display list of operating systems"
+
+File Explored > This PC > Right Click Main Drive > Properties > Uncheck "Allow files on this drive to have contect indexed"
+	Apply Changes to Drive, Subfolders & Files
+
+Settings > System
+	Notifications = Disable
+	Focus Assist = Off; Turn off all Automatic Rules
+	Power & Sleep; Sleep Never
+	Storage Sense = Off
+
+Right Click Desktop > Personalization
+	Colors; Transparency Effects = Off
+
+Press Windows Button > Type "Startup" > Unckeck Any Application You Don't Use.
+
+Settings > Gaming > Turn Off: Game Bar
+		Turn On: Game Mode IF After Windows 1809 Update
+		/
+	Privacy:
+		Speech; Off
+		Ink &Typing; Off
+		Diagnostics; Basic Delete Data, Feedback Frequency: Never
+		Activity History; Uncheck Send History, Clear History
+		Notifications; Off
+		Account Info; Off
+		Contacts; Off
+		Calendar; Off
+		Phone Calls; Off
+		Call History; Off
+		Email; Off
+		Tasks; Off
+		Messaging; Off
+		Radios; Off
+		Background Apps; Off
+		App Diagnostics; Off\
+
+Windows Key, Search "Add or Remove Programs" 
+	Remove any Programs You Don't Use.	
+
+Power Options:
+	Control panel > System & Security > Power Options > next to whichever power plan you have selected click 'Change plan settings' > Change advanced power settings
+		/
+		Wireless Adapter settings > Power Saving Mode > Maximum Performance
+		PCI Express > Link State Power Management > Off
+		Processor Power management
+
+Run Antivirus, Hitman, ADWare, CCleaner, Etc.
+
+Disable Hardware Acceleration in Discord, Spotify, Chrome, ETC.
+
+Go To File Explorer, Right Click Drive, Click Disk Cleanup. 
+	> Do For All Drives. (If You Have Them)
+
+Defrag / Optimize All Drives.
+	
+
